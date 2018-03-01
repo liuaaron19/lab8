@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+#auto-generated backup files
+*.swp
+
 # Runtime data
 pids
 *.pid
